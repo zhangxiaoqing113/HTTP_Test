@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 May 2024 10:00:00 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Content-Type: text/html; charset=UTF-8
+Content-Length: 138
+Connection: keep-alive
+Set-Cookie: sessionId=abc123; Path=/; HttpOnly
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录成功</title>
+</head>
+<body>
+    <h1>欢迎，用户名！</h1>
+    <p>登录成功，您现在可以访问受保护的内容。</p>
+</body>
+</html>
